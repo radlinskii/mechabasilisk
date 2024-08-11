@@ -20,4 +20,4 @@ So as Mechagodzilla was created to confront Godzilla, Mechabasilisk is going to 
 And still looking from the top view, it reminds me of the Basilisk monster.
 
 See:
-![top view render of the keyboard design](/images/design3.jpeg)
+![top view render of the keyboard design](/images/design3.png)
