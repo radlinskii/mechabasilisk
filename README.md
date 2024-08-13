@@ -10,7 +10,7 @@ It uses **TRRS cable** for communication between the boards.
 The case was designed in [Fusion 360](https://www.autodesk.com/products/fusion-360/overview), and the archive files are in [fusion](/fusion/) directory.\
 STL files can be found in [stl](/stl/) directory.\
 Firmware was created using [QMK firmware](https://qmk.fm/) and is stored in [qmk_firmware](/qmk_firmware/) directory.\
-You can also find some more images, including the pinout I used in the [images](/images/) directory.
+You can also find some more images, including the pinout schema I used when wiring the keyboard in the [images](/images/) directory.
 
 ### Why the name?
 
